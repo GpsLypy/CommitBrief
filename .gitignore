@@ -1,0 +1,19 @@
+# This repository distributes documentation and artwork only.
+# Installers belong in GitHub Releases, never in Git history.
+*
+!.gitignore
+!README.md
+!CHANGELOG.md
+!docs/
+!docs/AI.md
+!docs/PRIVACY.md
+!.github/
+!.github/ISSUE_TEMPLATE/
+!.github/ISSUE_TEMPLATE/bug_report.md
+!.github/ISSUE_TEMPLATE/feature_request.md
+!.github/assets/
+!.github/assets/app-icon.png
+!.github/assets/workspace-light.png
+!.github/assets/workspace-dark.png
+!.github/assets/ai-settings.png
+!.github/assets/wechat-pay.jpg
