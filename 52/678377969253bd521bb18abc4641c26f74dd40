@@ -1,0 +1,39 @@
+.github/ISSUE_TEMPLATE/bug_report.md
+  s_da78974ba60664::t_6b886b1d385b7a 1-30
+.github/ISSUE_TEMPLATE/feature_request.md
+  s_da78974ba60664::t_40e4d340606ed2 1-21
+.gitignore
+  s_4640eb3a2ead15::t_9fef1ea2697e5b 1-19
+CHANGELOG.md
+  s_da78974ba60664::t_9880ab55e0842b 1-35
+README.md
+  s_da78974ba60664::t_fc5776919c3f38 1-167
+docs/AI.md
+  s_da78974ba60664::t_42dc340f9c929b 1-79
+docs/PRIVACY.md
+  s_da78974ba60664::t_d604c218ac39ed 1-58
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.22",
+  "base_commit_sha": "52678377969253bd521bb18abc4641c26f74dd40",
+  "prompts": {},
+  "sessions": {
+    "s_4640eb3a2ead15": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "01a06f6f-781a-7f73-b31e-559662f63bf4",
+        "model": "gpt-6-astra"
+      },
+      "human_author": "yupeng.li <yupeng.li@ly.com>"
+    },
+    "s_da78974ba60664": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "01a06f56-a7ef-7561-908f-8411ee9d1de5",
+        "model": "gpt-6-astra"
+      },
+      "human_author": "yupeng.li <yupeng.li@ly.com>"
+    }
+  }
+}
