@@ -1,6 +1,6 @@
 # 隐私与数据说明
 
-适用于 CommitBrief 0.3.0。
+适用于 CommitBrief 0.3.1。
 
 CommitBrief 的基础整理在本机完成。应用没有账户系统、云端同步、遥测或广告服务；不会自动上传 Git 仓库。可选 AI 功能直接请求你配置的模型服务，不经过 CommitBrief 的中转服务器。
 
