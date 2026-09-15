@@ -7,6 +7,7 @@
 !docs/
 !docs/AI.md
 !docs/PRIVACY.md
+!docs/NOTIFICATIONS.md
 !.github/
 !.github/ISSUE_TEMPLATE/
 !.github/ISSUE_TEMPLATE/bug_report.md
@@ -16,4 +17,6 @@
 !.github/assets/workspace-light.png
 !.github/assets/workspace-dark.png
 !.github/assets/ai-settings.png
+!.github/assets/notification-settings.png
+!.github/assets/report-history.png
 !.github/assets/wechat-pay.jpg
