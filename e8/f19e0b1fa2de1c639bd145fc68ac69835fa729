@@ -1,0 +1,29 @@
+docs/AI.md
+  s_9b096d3265c815::t_5573338f483402 8-10,18,73,79
+CHANGELOG.md
+  s_9b096d3265c815::t_5573338f483402 3-29
+docs/PRIVACY.md
+  s_9b096d3265c815::t_5573338f483402 3,21,23,31,33,37-38,42
+docs/NOTIFICATIONS.md
+  s_9b096d3265c815::t_5573338f483402 1-27
+README.md
+  s_9b096d3265c815::t_5573338f483402 16,21,32,38-41,50,55,57,63,75,78-80,100,123,125,147,151
+.gitignore
+  s_9b096d3265c815::t_5573338f483402 10,20-21
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.2",
+  "base_commit_sha": "e8f19e0b1fa2de1c639bd145fc68ac69835fa729",
+  "prompts": {},
+  "sessions": {
+    "s_9b096d3265c815": {
+      "agent_id": {
+        "tool": "opencode",
+        "id": "ses_f5d065a0effelrf6Cz7ldOjeX6",
+        "model": "gpt-5.6-sol"
+      },
+      "human_author": "yupeng.li <yupeng.li@ly.com>"
+    }
+  }
+}
