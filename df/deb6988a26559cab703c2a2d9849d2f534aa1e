@@ -1,0 +1,20 @@
+CHANGELOG.md
+  h_2c946ab00a8e86 3-10
+README.md
+  h_2c946ab00a8e86 50,57
+docs/AI.md
+  h_2c946ab00a8e86 62,81
+docs/PRIVACY.md
+  h_2c946ab00a8e86 3
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.2",
+  "base_commit_sha": "dfdeb6988a26559cab703c2a2d9849d2f534aa1e",
+  "prompts": {},
+  "humans": {
+    "h_2c946ab00a8e86": {
+      "author": "yupeng.li <yupeng.li@ly.com>"
+    }
+  }
+}
