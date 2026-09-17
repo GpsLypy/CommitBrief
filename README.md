@@ -47,14 +47,14 @@ CommitBrief 面向需要写日报、周报和阶段汇报的开发者。添加�
 
 | 项目 | 当前支持 |
 | --- | --- |
-| 最新公开版本 | 0.3.2 |
+| 最新公开版本 | 0.3.3 |
 | 系统 | macOS 15 或更新版本 |
 | 芯片 | Apple Silicon：M 系列 Mac，arm64 |
 | 依赖 | 本机可用的 Git；系统提示缺少开发者工具时，按 macOS 指引安装命令行工具 |
 | 安装形式 | DMG，拖入 Applications |
 | 更新方式 | 应用内手动检查，从 Releases 下载并替换应用 |
 
-1. 打开 [最新版本](https://github.com/GpsLypy/CommitBrief/releases/latest)，下载 `CommitBrief-0.3.2-macos-arm64.dmg`。
+1. 打开 [最新版本](https://github.com/GpsLypy/CommitBrief/releases/latest)，下载 `CommitBrief-0.3.3-macos-arm64.dmg`。
 2. 打开 DMG，把 **CommitBrief.app** 拖入 **Applications（应用程序）**。
 3. 从应用程序文件夹启动，添加本机 Git 仓库。
 
